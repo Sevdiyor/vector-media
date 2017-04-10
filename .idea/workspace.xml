@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2820655f-47d4-441d-8157-4074404b45a9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carousel/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clLogos/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/news/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/staff/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/constructions/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/constructions/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/constructions/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/constructions/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/constructions/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carousel/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clLogos/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/facility/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/news/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/staff/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carousel/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/facility/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/news/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/carousel/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/facility/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/facility/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clLogos/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clLogos/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_rounded/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_square/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/facebook/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/light_rounded/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/light_square/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_rounded/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_square/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/facebook/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/light_rounded/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/light_square/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_rounded/contentPattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_square/contentPattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/facebook/contentPatternBottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/facebook/contentPatternLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/facebook/contentPatternRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/facebook/contentPatternTop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/default/default_thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_rounded/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_square/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/facebook/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/light_rounded/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/light_square/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/facility/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_rounded/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_square/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/default/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/facebook/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/light_rounded/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/light_square/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/num.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_rounded/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_square/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/default/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/facebook/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/light_rounded/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/light_square/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/default/sprite_next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/default/sprite_prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/default/sprite_x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/default/sprite_y.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vmglogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_extras.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/addClient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/addConstruc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/addFacility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/addNews.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/addStaff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/bron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/brons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/callBack.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/carousel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/connect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/consSearch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/construc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/del.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/editClient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/editCons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/editFacility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/editNews.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/editStaff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/editcarousel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/extras.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/facility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/font-awesome-ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/font-awesome-ie7.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/font-awesome-ie7.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_rounded/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/dark_square/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/default/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/facebook/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/light_rounded/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/images/light_square/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/jquery-3.1.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/jquery.prettyPhoto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/styles/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/lock.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/navbar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/panel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/panel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/layout/scripts/prettyphoto/prettyPhoto.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/selects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/staff.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vector-media.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vmg.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/vmgorder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/w3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="vector-media.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="vector-media" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="editCons.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/editCons.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="18" selection-start="1699" selection-end="1699" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1054">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="5" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="952">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carousel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/carousel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editClient.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/editClient.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="96" selection-start="488" selection-end="580" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="561">
+              <folding>
+                <marker date="1486016186690" expanded="true" signature="658:1152" placeholder="..." />
+                <marker date="1486016186690" expanded="true" signature="770:1143" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consSearch.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consSearch.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="32" selection-start="1668" selection-end="1668" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="3298">
+              <folding>
+                <marker date="1485984891213" expanded="false" signature="6975:6992" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="37" selection-start="269" selection-end="269" vertical-scroll-proportion="0.69002694" vertical-offset="16" max-vertical-offset="595">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/panel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="82" column="123" selection-start="5758" selection-end="5758" vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="2074">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/admin/del.php" />
+        <option value="G:/HTML HTML/Lecture_15/Get Lucky code/portfolio.html" />
+        <option value="$PROJECT_DIR$/admin/facility.php" />
+        <option value="$PROJECT_DIR$/admin/addStaff.php" />
+        <option value="$PROJECT_DIR$/admin/panel.php" />
+        <option value="$PROJECT_DIR$/admin/editClient.php" />
+        <option value="$PROJECT_DIR$/admin/client.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/admin/addClient.php" />
+        <option value="$PROJECT_DIR$/admin/addConstruc.php" />
+        <option value="$PROJECT_DIR$/admin/add.php" />
+        <option value="$PROJECT_DIR$/admin/construc.php" />
+        <option value="$PROJECT_DIR$/admin/editcarousel.php" />
+        <option value="$PROJECT_DIR$/panel.php" />
+        <option value="$PROJECT_DIR$/admin/editCons.php" />
+        <option value="$PROJECT_DIR$/search.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="phpmine" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="66" />
+    <option name="y" value="1" />
+    <option name="width" value="1300" />
+    <option name="height" value="766" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vector-media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vector-media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vector-media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Hacker\PhP\my projects\vector-media\images" />
+      <recent name="G:\Hacker\PhP\my projects\vector-media\admin" />
+      <recent name="G:\Hacker\PhP\my projects\vector-media\lib\js" />
+      <recent name="G:\Hacker\PhP\my projects\vector-media\lib\css" />
+      <recent name="G:\Hacker\PhP\my projects\vector-media\lib\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Hacker\PhP\my projects\vector-media\admin" />
+      <recent name="G:\Hacker\PhP\my projects\vector-media" />
+      <recent name="G:\Hacker\PhP\my projects\vector-media\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2820655f-47d4-441d-8157-4074404b45a9" name="Default" comment="" />
+      <created>1478931258097</created>
+      <updated>1478931258097</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="66" y="1" width="1300" height="766" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21261682" sideWeight="0.6703645" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43143296" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="firs commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="firs commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="24" selection-start="270" selection-end="398" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="391" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/editcarousel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="5" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="731" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/editNews.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="92" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/editClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="96" selection-start="488" selection-end="580" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="561">
+          <folding>
+            <marker date="1486016186690" expanded="true" signature="658:1152" placeholder="..." />
+            <marker date="1486016186690" expanded="true" signature="770:1143" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/panel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="123" selection-start="5758" selection-end="5758" vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="2074">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/staff/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/staff/2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clLogos/2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clLogos/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clLogos/8.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/clLogos/7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/editCons.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="18" selection-start="1699" selection-end="1699" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="5" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consSearch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="32" selection-start="1668" selection-end="1668" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="3298">
+          <folding>
+            <marker date="1485984891213" expanded="false" signature="6975:6992" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="37" selection-start="269" selection-end="269" vertical-scroll-proportion="0.69002694" vertical-offset="16" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

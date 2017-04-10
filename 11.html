@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="lib/css/bootstrap.css">
+    <link rel="stylesheet" href="lib/css/main.css"/>
+    <link rel="stylesheet" href="lib/css/font-awesome.css">
+    <script src="lib/js/jquery.min.js"></script>
+    <script src="lib/js/bootstrap.min.js"></script>
+    <script>
+
+          function st(){
+              $("#s").css("display","none");
+//              $("#s").css("width","0");
+//              $("#s").css("padding","0");
+
+          }
+
+       function sss(){
+           $("#s").css("display","block");
+           $( "#s" ).show().animate({
+//               opacity: 0.25
+               width: "100px",
+               'margin-left':"=100px"
+//               height: "toggle"
+           }, 500);
+       }
+    </script>
+</head>
+<body onmouseover="st()">
+
+<input class="form-control" type="text" id="s" style=" width:0;padding:0;display: none; position: absolute; margin-left:100px"/>
+    <button onclick="sss()" style="margin-left: 100px" class="btn btn-success">search</button>
+</body>
+</html>
